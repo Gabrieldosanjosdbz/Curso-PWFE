@@ -1,0 +1,23 @@
+{
+  "name": "starwars-api-2dm",
+  "version": "1.0.0",
+  "description": "API desenvolvida com node.js e mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "node.js",
+    "mongoDB",
+    "mongoose",
+    "express"
+  ],
+  "author": "Eu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.0"
+  }
+}
