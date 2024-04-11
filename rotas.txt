@@ -1,0 +1,13 @@
+URL
+https://sujeitoprogramador.com/
+
+Rotas 
+
+1º r-api/?api=filmes            (/ Home)
+2º r-api/?api=filmes/123        (/ id Filme)
+3º r-api/?api=filmes/favoritos  (/ id Favoritos)
+
+Endpoints
+https://sujeitoprogramador.com/r-api/?api=filmes          
+https://sujeitoprogramador.com/r-api/?api=filmes/123      
+https://sujeitoprogramador.com/r-api/?api=filmes/favoritos
