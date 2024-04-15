@@ -30,7 +30,7 @@
     height: 300px;
 }
 
-.lista-filmes article Link{
+.lista-filmes article a{
     text-decoration: none;
     color: #fff;
     background-color: #a52a2a;

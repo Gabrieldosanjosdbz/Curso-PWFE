@@ -1,7 +1,7 @@
-import  Axios  from "axios";
-
-const api = Axios.create({
-    baseUrl: 'https://sujeitoprogramador.com/'
+import axios from "axios";
+ 
+const api = axios.create({
+    baseURL: "https:sujeitoprogramador.com/"
 })
 
-export default api;
+export default api
